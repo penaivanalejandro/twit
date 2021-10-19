@@ -1,7 +1,3 @@
 module github.com/penaivanalejandro/twit
 
-go 1.17.0
-
-require (
-
-)
+go 1.17
